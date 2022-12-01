@@ -1,4 +1,4 @@
 StudentID : 2213111269
 FullName(in English) : Thavesuk Sriintarawanich
 AKA : Juie
-Classdetail : Lab Sheet 3 : Control Statement & Confirm Dialog
+Classdetail : Lab Sheet 4 : String Methods and Defined Method
